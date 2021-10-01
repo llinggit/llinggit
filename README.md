@@ -7,9 +7,10 @@
 <a href="https://github.com/llinggit">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=llinggit&show_icons=true&theme=material-palenight" />
 </a><br>
+<!--
 <a href="https://github.com/llinggit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llinggit&layout=compact&theme=material-palenight" />
-</a><br>
+</a><br> -->
 
 
   
