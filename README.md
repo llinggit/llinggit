@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+# Hi, I'm Ling! 👋
+
+  
+## 🚀 About Me
+I'm a full stack developer...
+
+  
+## 🛠 Skills
+Javascript, ...
+
+  
 <!--
 **llinggit/llinggit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
